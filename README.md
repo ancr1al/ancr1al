@@ -1,7 +1,6 @@
 ## Hi there 👋
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,csharp,bash,mysql)](https://github.com/Jurredr/github-widgetbox)
-### 📈 GitHub Activity Graph:
-![ancr1al](https://activity-graph.herokuapp.com/graph?user
+
 
 <!--
 **ancr1al/ancr1al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
