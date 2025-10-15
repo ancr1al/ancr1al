@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,csharp,bash,mysql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=java,csharp,mysql&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ancr1al&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 
